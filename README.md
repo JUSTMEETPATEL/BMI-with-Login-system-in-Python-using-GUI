@@ -8,7 +8,7 @@ The application also included a dedicated section for health and fitness options
 
 Our project was a testament to our commitment to harness technology for the betterment of individual health and well-being, all while delivering an exceptional user experience with a focus on aesthetics and functionality. I am proud of my contribution to the development of the login system, which played a pivotal role in ensuring the project's success and security.
 
-TO run this project you need to set up MySQL and create a Database "meet" and need to set up pass as "admin123" and user as "root" inside the database create a table login with 3 fields:
+TO run this project you need to set up MySQL and create a Database "12projects" and need to set up pass as "admin123" and user as "root" inside the database create a table login with 3 fields:
 1>Username(var char)
 2>Password(var char)
 3>gmail(var char)
