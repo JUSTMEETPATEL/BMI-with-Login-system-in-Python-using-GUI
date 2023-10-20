@@ -28,7 +28,11 @@
    - Table: 'login' with Fields: Username, Password, Gmail
    - Make Code Adjustments for Customization
 
-📧 Contact Me:
-   - Email: [YourEmail@example.com](mailto:YourEmail@example.com)
-   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-   - GitHub: [Your GitHub Profile](https://github.com/yourprofile)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@justmeetpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@justmeetpatel" height="30" width="40" /></a>
+<a href="https://twitter.com/justmeetpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justmeetpatel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meetpatel011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetpatel011" height="30" width="40" /></a>
+<a href="https://instagram.com/just_meet05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_meet05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/just_meet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="just_meet" height="30" width="40" /></a>
+</p>
